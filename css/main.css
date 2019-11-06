@@ -37,3 +37,7 @@ button {
     color: #9EC285;
     margin: 2px;
 }
+
+ul {
+    list-style: none;
+}
