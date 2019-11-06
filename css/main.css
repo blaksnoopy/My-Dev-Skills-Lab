@@ -1,0 +1,39 @@
+
+
+body{
+    text-align: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    width: 50vw;
+    background-color: #9EC285;
+    color: #FBFDFB;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    width: 50vw;
+    justify-content: space-between;
+}
+
+input {
+    border: 2px solid #9EC285;
+    flex-grow: 1;
+    align-items: center;
+    margin: 2px;
+}
+
+button {
+    border: 2px solid #9EC285;
+    align-items: center;
+    color: #9EC285;
+    margin: 2px;
+}
